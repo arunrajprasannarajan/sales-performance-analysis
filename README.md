@@ -1,4 +1,4 @@
-# sales-performance-analysis
+# Sales-performance-analysis
  Data analysis of Superstore sales trends, regional performance, and discount impact using SQL, Excel, and Tableau.
 
 # Sales Performance Analysis (Superstore Dataset)
@@ -15,7 +15,7 @@ This project analyzes sales trends, regional performance, and the impact of disc
 ## Key Insights
 1. **Sales Trends:** Sales peak during the holiday season (November to December), indicating strong seasonal demand.
 2. **Top-Selling Regions:** The West region generates the highest revenue (approximately $725K), while the South underperforms (approximately $391K).
-3. **Profitability and Discounts:** Discounts above 30 percent significantly reduce profits. Optimized discount strategies are needed.
+3. **Profitability and Discounts:** Discounts above 30% significantly reduce profits. Optimized discount strategies are needed.
 
 ## Project Structure
 - **Data/** – Contains datasets (CSV format)
