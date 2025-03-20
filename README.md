@@ -1,5 +1,5 @@
 # Sales-performance-analysis
- Data analysis of Superstore sales trends, regional performance, and discount impact using R, Excel, and Tableau.
+ Data analysis of Superstore sales trends, regional performance, and discount impact using R, SQL, Excel, and Tableau.
 
 # Sales Performance Analysis (Superstore Dataset)
 
